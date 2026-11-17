@@ -1,5 +1,3 @@
-# bitacora-fullstack
-
 # Bitacora Tecnica del curso de desarrollo web Fullstack
 
 ## Datos
@@ -8,5 +6,3 @@
 
 ## Dia 1 - 13 de noviembre
 Hoy aprendí como funciona el modelo cliente-servidor.
-
-///Eliminar todo
